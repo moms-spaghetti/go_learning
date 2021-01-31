@@ -23,6 +23,8 @@ Clone the repo.
 ## Prerequisites
 
 The go software
+PATH configuration
+Go vscode extension
 Written in vscode. Everything can be run from the terminal.
 <br/><br/>
 
