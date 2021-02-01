@@ -13,6 +13,10 @@ func main() {
 		fmt.Println("8 is divisible by 4")
 	}
 
+	if 5 > 1 {
+		fmt.Println("5 is greater than 1")
+	}
+
 	if num := 9; num < 0 {
 		fmt.Println(num, "is negative")
 	} else if num < 10 {
